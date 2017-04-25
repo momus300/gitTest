@@ -1,3 +1,4 @@
 <?php
 echo 'nowy plik na masterze';
-echo 'tutaj zmieciowy test z dev';
+echo 'tu dobre zmiany z mastera';
+echo 'dobre rozwiazanie zadania';
